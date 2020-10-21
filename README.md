@@ -23,9 +23,9 @@ You will need to create a bucket and reference the bucket name in the following 
 ```
 terraform {
   backend "s3" {
-    bucket = "terraform-bucket-alex"
+    bucket = "terraform-bucket-moh"
     key    = "terraform.tfstate"
-    region = "us-east-1"
+    region = "us-east-2"
   }
 }
 ```
