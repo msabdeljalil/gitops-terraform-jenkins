@@ -14,6 +14,8 @@ Video can be found here: https://youtu.be/qFjGqPw1NUY
 * Correct plugins installed on Jenkins
 * GitHub access token
 * AWS credentials
+  - IAM role added
+  - EC2 Key Pair created with the key: 'terraform'
 * S3 bucket
 
 ## Setup Bucket
